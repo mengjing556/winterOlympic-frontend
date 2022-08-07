@@ -3,7 +3,6 @@ import { createRouter,createWebHashHistory } from 'vue-router'
 import Main from '@/views/Main'
 import Demo from '@/views/Demo'
 import News from "@/views/News"
-import {createWebHistory} from "_vue-router@4.1.3@vue-router";
 
 // 2. Define some routes
 // Each route should map to a component.
